@@ -2,7 +2,6 @@
 <div align="center">
   <h1>Hello! I’m <a href="https://github.com/M-Mahad-Siddiqui">M. Mahad Siddiqui</a> 👋</h1>
 </div>
-# Hello! I’m [M. Mahad Siddiqui](https://github.com/M-Mahad-Siddiqui) 👋
 
 ## 🌟 **Role**: Full-Stack Developer
 ## 📍 **Location**: Karachi, Pakistan
