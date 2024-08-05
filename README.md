@@ -1,7 +1,5 @@
 
-<div align="center">
-  # Hello! I’m [M. Mahad Siddiqui](https://github.com/M-Mahad-Siddiqui) 👋
-</div>
+# Hello! I’m [M. Mahad Siddiqui](https://github.com/M-Mahad-Siddiqui) 👋
 
 ## 🌟 **Role**: Full-Stack Developer
 ## 📍 **Location**: Karachi, Pakistan
