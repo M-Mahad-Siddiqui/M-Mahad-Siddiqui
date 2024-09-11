@@ -73,7 +73,7 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 
 ---
 <br />
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/M-Mahad-Siddiqui/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=M-Mahad-Siddiqui">
 
 </a>
