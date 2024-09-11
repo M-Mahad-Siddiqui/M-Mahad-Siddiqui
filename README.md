@@ -3,19 +3,20 @@
 <div align="center">
   <h1>Hello! I’m <a href="https://github.com/M-Mahad-Siddiqui">M. Mahad Siddiqui</a> 👋</h1>
 </div>
-<div > 
+<div>
   <span>
-### 🌟 **Role**: Full-Stack Developer
-### 📍 **Location**: Karachi, Pakistan
-### 📧 **Contact**: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
-### 🇵🇰 **Nationality**: Pakistani
-### 🏳️ **Pronouns**: He/Him
-### 💼 **Marital Status**: Single
+    <h3>🌟 <strong>Role</strong>: Full-Stack Developer</h3>
+    <h3>📍 <strong>Location</strong>: Karachi, Pakistan</h3>
+    <h3>📧 <strong>Contact</strong>: <a href="mailto:mahadsiddiqui21@gmail.com">mahadsiddiqui21@gmail.com</a> | 📞 03190039560</h3>
+    <h3>🇵🇰 <strong>Nationality</strong>: Pakistani</h3>
+    <h3>🏳️ <strong>Pronouns</strong>: He/Him</h3>
+    <h3>💼 <strong>Marital Status</strong>: Single</h3>
   </span>
   <span>
-    ![Header Image](https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true)
+    <img src="https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true" alt="Header Image" style="max-width: 100%; height: auto;">
   </span>
 </div>
+
 
 
 ---
