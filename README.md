@@ -5,11 +5,10 @@
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Profile Image -->
-  <img src="https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true" alt="Header Image" style="max-width: 150px; border-radius: 8px;">
-
-  <!-- Information -->
   <div>
+  <img src="https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true" alt="Header Image" style="max-width: 150px; border-radius: 8px;">
+  </div>
+    <div>
     <h3>🌟 <strong>Role</strong>: Full-Stack Developer</h3>
     <h3>📍 <strong>Location</strong>: Karachi, Pakistan</h3>
     <h3>📧 <strong>Contact</strong>: <a href="mailto:mahadsiddiqui21@gmail.com">mahadsiddiqui21@gmail.com</a> | 📞 03190039560</h3>
