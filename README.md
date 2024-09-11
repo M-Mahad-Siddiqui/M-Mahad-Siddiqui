@@ -50,6 +50,12 @@ I’m an avid learner who loves exploring new technologies and tackling coding c
 Feel free to explore my repositories, and let's connect if you have any exciting opportunities or projects!
 
 ---
+<h1 align="center">📊 GitHub Stats</h1>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=M-Mahad-Siddiqui&theme=youtube-dark&hide_border=true)](https://git.io/streak-stats)
+
+<h1 align="center">Contributions</h1>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Mahad-Siddiqui&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
