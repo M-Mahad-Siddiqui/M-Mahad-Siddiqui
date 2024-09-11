@@ -50,6 +50,7 @@ I’m an avid learner who loves exploring new technologies and tackling coding c
 Feel free to explore my repositories, and let's connect if you have any exciting opportunities or projects!
 
 ---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huzaifaaazhar&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 M-Mahad-Siddiqui/M-Mahad-Siddiqui is a ✨ special ✨ repository showcasing my journey as a passionate developer. Your insights and connections are welcome!
