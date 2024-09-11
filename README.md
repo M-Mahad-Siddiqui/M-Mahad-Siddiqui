@@ -4,19 +4,20 @@
   <h1>Hello! I’m <a href="https://github.com/M-Mahad-Siddiqui">M. Mahad Siddiqui</a> 👋</h1>
 </div>
 
-<div style="display: flex; align-items: center; gap: 20px; > 
+<div style="display: flex; align-items: center; gap: 20px;">
   <span>
-### 🌟 **Role**: Full-Stack Developer
-### 📍 **Location**: Karachi, Pakistan
-### 📧 **Contact**: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
-### 🇵🇰 **Nationality**: Pakistani
-### 🏳️ **Pronouns**: He/Him
-### 💼 **Marital Status**: Single
+    <h3>🌟 <strong>Role</strong>: Full-Stack Developer</h3>
+    <p>📍 <strong>Location</strong>: Karachi, Pakistan</p>
+    <p>📧 <strong>Contact</strong>: <a href="mailto:mahadsiddiqui21@gmail.com">mahadsiddiqui21@gmail.com</a> | 📞 03190039560</p>
+    <p>🇵🇰 <strong>Nationality</strong>: Pakistani</p>
+    <p>🏳️ <strong>Pronouns</strong>: He/Him</p>
+    <p>💼 <strong>Marital Status</strong>: Single</p>
   </span>
-  <span width='2px' >
-    ![Header Image](https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true)
+  <span style="width: 5px;">
+    <img src="https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true" alt="Header Image">
   </span>
 </div>
+
 ---
 
 ## About Me
