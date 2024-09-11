@@ -7,6 +7,15 @@
   <h1>Hello! I’m <a href="https://github.com/M-Mahad-Siddiqui">M. Mahad Siddiqui</a> 👋</h1>
 </div>
 
+
+## 🌟 **Role**: Full-Stack Developer
+## 📍 **Location**: Karachi, Pakistan
+## 📧 **Contact**: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
+## 🇵🇰 **Nationality**: Pakistani
+## 🏳️ **Pronouns**: He/Him
+## 💼 **Marital Status**: Single
+
+---
 <div>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="75" height="75" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
@@ -15,16 +24,6 @@
    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" />
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="75" height="75"/>    
 <div/>
-<br/>
-
-
-## 🌟 **Role**: Full-Stack Developer
-## 📍 **Location**: Karachi, Pakistan
-## 📧 **Contact**: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
-## 🇵🇰 **Nationality**: Pakistani
-## 🏳️ **Pronouns**: He/Him
-## 💼 **Marital Status**: Single
----
 
 ## About Me
 I'm a passionate Full-Stack Developer currently working towards a Bachelor's degree in Computer Science (BSCS) at Dawood University. My journey in tech is driven by a love for coding and a knack for innovative problem-solving.
