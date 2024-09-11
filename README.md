@@ -6,7 +6,7 @@
   <h1>Hello! I’m <a href="https://github.com/M-Mahad-Siddiqui">M. Mahad Siddiqui</a> 👋</h1>
 </div>
 
-## 🌟 **Role**: Full-Stack Developer
+### 🌟 **Role**: Full-Stack Developer
 ## 📍 **Location**: Karachi, Pakistan
 ## 📧 **Contact**: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
 ## 🇵🇰 **Nationality**: Pakistani
