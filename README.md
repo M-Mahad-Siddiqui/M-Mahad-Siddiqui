@@ -1,22 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=B31A7D&background=F8A8D400&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+Profile!%F0%9F%91%8B)](https://git.io/typing-svg)
+<div>
+    <img src="https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true" alt="Header Image" style="width: 300px; height: auto;">
+  </div>
 
 <div align="center">
   <h1>Hello! I’m <a href="https://github.com/M-Mahad-Siddiqui">M. Mahad Siddiqui</a> 👋</h1>
 </div>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    <h3>🌟 <strong>Role</strong>: Full-Stack Developer</h3>
-    <p>📍 <strong>Location</strong>: Karachi, Pakistan</p>
-    <p>📧 <strong>Contact</strong>: <a href="mailto:mahadsiddiqui21@gmail.com">mahadsiddiqui21@gmail.com</a> | 📞 03190039560</p>
-    <p>🇵🇰 <strong>Nationality</strong>: Pakistani</p>
-    <p>🏳️ <strong>Pronouns</strong>: He/Him</p>
-    <p>💼 <strong>Marital Status</strong>: Single</p>
-  </div>
-  <div>
-    <img src="https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true" alt="Header Image" style="width: 100px; height: auto;">
-  </div>
-</div>
+
+## 🌟 **Role**: Full-Stack Developer
+## 📍 **Location**: Karachi, Pakistan
+## 📧 **Contact**: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
+## 🇵🇰 **Nationality**: Pakistani
+## 🏳️ **Pronouns**: He/Him
+## 💼 **Marital Status**: Single
 
 
 ---
