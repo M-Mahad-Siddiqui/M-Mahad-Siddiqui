@@ -3,19 +3,49 @@
 <div align="center">
   <h1>Hello! I’m <a href="https://github.com/M-Mahad-Siddiqui">M. Mahad Siddiqui</a> 👋</h1>
 </div>
-<div>
-  <span>
-    <h3>🌟 <strong>Role</strong>: Full-Stack Developer</h3>
-    <h3>📍 <strong>Location</strong>: Karachi, Pakistan</h3>
-    <h3>📧 <strong>Contact</strong>: <a href="mailto:mahadsiddiqui21@gmail.com">mahadsiddiqui21@gmail.com</a> | 📞 03190039560</h3>
-    <h3>🇵🇰 <strong>Nationality</strong>: Pakistani</h3>
-    <h3>🏳️ <strong>Pronouns</strong>: He/Him</h3>
-    <h3>💼 <strong>Marital Status</strong>: Single</h3>
-  </span>
-  <span>
-    <img src="https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true" alt="Header Image" style="max-width: 100%; height: auto;">
-  </span>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+            gap: 20px; /* Adjust spacing between image and text */
+        }
+        .info {
+            flex: 1;
+        }
+        .info h3 {
+            margin: 5px 0;
+        }
+        .info a {
+            text-decoration: none;
+            color: #1a73e8;
+        }
+        .profile-image {
+            max-width: 150px; /* Adjust size as needed */
+            border-radius: 8px; /* Optional: rounded corners */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true" alt="Header Image" class="profile-image">
+        <div class="info">
+            <h3>🌟 <strong>Role</strong>: Full-Stack Developer</h3>
+            <h3>📍 <strong>Location</strong>: Karachi, Pakistan</h3>
+            <h3>📧 <strong>Contact</strong>: <a href="mailto:mahadsiddiqui21@gmail.com">mahadsiddiqui21@gmail.com</a> | 📞 03190039560</h3>
+            <h3>🇵🇰 <strong>Nationality</strong>: Pakistani</h3>
+            <h3>🏳️ <strong>Pronouns</strong>: He/Him</h3>
+            <h3>💼 <strong>Marital Status</strong>: Single</h3>
+        </div>
+    </div>
+</body>
+</html>
+
 
 
 
