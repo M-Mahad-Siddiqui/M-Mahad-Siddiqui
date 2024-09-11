@@ -7,7 +7,7 @@
   <h1>Hello! I’m <a href="https://github.com/M-Mahad-Siddiqui">M. Mahad Siddiqui</a> 👋</h1>
 </div>
 
-<div align="center">
+<div>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="75" height="75" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
