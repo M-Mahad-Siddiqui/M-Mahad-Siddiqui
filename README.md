@@ -6,9 +6,9 @@
 </div>
 
 <i align="right">
-    <img src="https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true" alt="Header Image" style="width: 300px; height: auto;">
+    <img src="https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true" alt="Header Image" style="width: 200px; height: auto;">
   </i>
-
+---
 ## 🌟 **Role**: Full-Stack Developer
 ## 📍 **Location**: Karachi, Pakistan
 ## 📧 **Contact**: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
