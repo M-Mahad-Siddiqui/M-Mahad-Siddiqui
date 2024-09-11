@@ -12,9 +12,9 @@
 ### 🏳️ **Pronouns**: He/Him
 ### 💼 **Marital Status**: Single
   </span>
-  <apan>
+  <span>
     ![Header Image](https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true)
-  </apan>
+  </span>
 </div>
 
 
