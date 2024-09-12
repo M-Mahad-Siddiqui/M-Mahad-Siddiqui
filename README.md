@@ -234,10 +234,10 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 <p align="center">
 <a href="https://gist.github.com/M-Mahad-Siddiqui"><img src="https://profile-counter.glitch.me/{M-Mahad-Siddiqui}/count.svg" alt="M-Mahad-Siddiqui :: Visitor's Count" /></a>
 </p>
-
+<!--
 <h1 align="center">Contributions</h1>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Mahad-Siddiqui&theme=rogue)](https://github.com/M-Mahad-Siddiqui/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Mahad-Siddiqui&theme=rogue)](https://github.com/M-Mahad-Siddiqui/github-readme-activity-graph) 
+-->
 
 
 
