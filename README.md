@@ -242,7 +242,7 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 <div align="center">
 <a href = "https://linkedin.com/in/mahad31"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/poetrybymahad31?igsh=MWhldDJoYnBsdWUyYg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=61551657878159&mibextid=ZbWKwL"><img src="https://img.icons8.com/fluency/48/null/facebook-new.png"/></a>
+<a href = "https://www.facebook.com/mahadsiddiqui.mahadsiddiqui/"><img src="https://img.icons8.com/fluency/48/null/facebook-new.png"/></a>
 </div>
 
 ### 💻 Coding Profiles:
