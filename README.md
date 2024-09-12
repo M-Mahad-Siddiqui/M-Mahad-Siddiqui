@@ -69,11 +69,7 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 ![GitHub Streak](https://streak-stats.demolab.com/?user=M-Mahad-Siddiqui&theme=dark)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Mahad-Siddiqui&langs_count=8&layout=compact&theme=gruvbox" width="350" />
-<p align="center">
-    <a href="https://github.com/M-Mahad-Siddiqui/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wasif Khan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Mahad-Siddiqui&theme=gruvbox&hide_border=true"/>
-    </a>
-</p>
+
 <p align="center">
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=M-Mahad-Siddiqui&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="100%"/>
 </p>-->
