@@ -78,13 +78,27 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 </p>-->
 
 ---
-<br />
-<a href="https://github.com/M-Mahad-Siddiqui/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=M-Mahad-Siddiqui">
+<br /><hr/>
 
-</a>
-<a href="https://github.com/M-Mahad-Siddiqui?tab=followers"><img src="https://img.shields.io/github/followers/M-Mahad-Siddiqui?label=Followers&style=social" alt="GitHub Badge"></a>
+### ➡️ Let's Connect:
+<div align="center">
+<a href = "https://linkedin.com/in/mahad31"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/poetrybymahad31?igsh=MWhldDJoYnBsdWUyYg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=61551657878159&mibextid=ZbWKwL"><img src="https://img.icons8.com/fluency/48/null/facebook-new.png"/></a>
+</div>
 
+### 💻 Coding Profiles:
+<p align="center">  
+  <a href="https://leetcode.com/Mahad31/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
+  </a>
+</p>
+
+### ❤ Followers:
+<div align= "center">
+<a href="https://github.com/Mahad-Siddiqui/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=Mahad-Siddiqui"></a>
+<a href="https://github.com/Mahad-Siddiqui?tab=followers"><img src="https://img.shields.io/github/followers/Mahad-Siddiqui?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
 
 <!---
 M-Mahad-Siddiqui/M-Mahad-Siddiqui is a ✨ special ✨ repository showcasing my journey as a passionate developer. Your insights and connections are welcome!
