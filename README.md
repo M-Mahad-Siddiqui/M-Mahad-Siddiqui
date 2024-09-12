@@ -64,7 +64,9 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 ---
 <h1 align="center">📊 GitHub Stats</h1>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Mahad-Siddiqui&theme=github_dark&show_icons=true)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Mahad-Siddiqui&langs_count=8&layout=compact&theme=gruvbox" width="350" />
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=M-Mahad-Siddiqui&theme=dark)
 
 ---
