@@ -72,6 +72,7 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Mahad-Siddiqui&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
 ### ➡️ Let's Connect:
 <div align="center">
