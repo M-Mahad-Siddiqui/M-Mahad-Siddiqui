@@ -170,6 +170,24 @@ I’m an avid learner who loves exploring new technologies and tackling coding c
 Feel free to explore my repositories, and let's connect if you have any exciting opportunities or projects!
 
 ---
+## Rapidfire
+<table><tr><td valign="top" width="100%">
+
+- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/auwailun)  
+  
+
+- 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I keep night shift swithed on at all times   
+
+
+</td></tr></table>  
+
+<br/>  
 <h1 align="center">📊 GitHub Stats</h1>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Mahad-Siddiqui&theme=github_dark&show_icons=true)
