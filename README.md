@@ -63,27 +63,15 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 
 ---
 <h1 align="center">📊 GitHub Stats</h1>
-
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Mahad-Siddiqui&theme=github_dark&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Mahad-Siddiqui&langs_count=8&layout=compact&theme=gruvbox" width="350" />
 ![GitHub Streak](https://streak-stats.demolab.com/?user=M-Mahad-Siddiqui&theme=dark)
-
-<p align="center">
-<<img src="https://activity-graph.herokuapp.com/graph?username=M-Mahad-Siddiqui&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="100%"/>
-</p>
-
-
 
 
 <h1 align="center">Contributions</h1>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Mahad-Siddiqui&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
----
-<br /><hr/>
 
 ### ➡️ Let's Connect:
 <div align="center">
