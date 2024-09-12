@@ -197,6 +197,11 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 
 ---
 
+<p align="center">
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+</p>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
 <h1 align="center">Contributions</h1>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Mahad-Siddiqui&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
