@@ -173,7 +173,7 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 ## Rapidfire
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/auwailun)  
+- 🔭 I’m currently working on [Business Website Development](https://github.com/M-Mahad-Siddiqui)  
   
 
 - 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
