@@ -64,12 +64,12 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 ---
 <h1 align="center">📊 GitHub Stats</h1>
 
-<diiv>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=M-Mahad-Siddiqui&theme=youtube-dark&hide_border=true)](https://git.io/streak-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMajeed92&theme=github_dark&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=SajidMajeed92&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidMajeed92)
-</div>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Mahad-Siddiqui&theme=github_dark&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=M-Mahad-Siddiqui&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Mahad-Siddiqui)
+
 
 
 
