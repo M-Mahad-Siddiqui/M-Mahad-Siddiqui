@@ -200,7 +200,6 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 <p align="center">
 <a href="https://gist.github.com/M-Mahad-Siddiqui"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="M-Mahad-Siddiqui :: Visitor's Count" /></a>
 </p>
-<img src="https://github.com/M-Mahad-Siddiqui/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 <h1 align="center">Contributions</h1>
 
