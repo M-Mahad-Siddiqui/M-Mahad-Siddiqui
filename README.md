@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=B31A7D&background=F8A8D400&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+Profile!%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=B31A7D&background=F8A8D400&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+Profile!%F0%9F%91%8B)](https://git.io/typing-svg)
 
  <!--   <img src="https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true" alt="Header Image" style="width: 120px; display:inline; height: auto;"> -->
 
@@ -8,12 +8,12 @@
 </div>
 
 
-## 🌟 **Role**: Full-Stack Developer
-## 📍 **Location**: Karachi, Pakistan
-## 📧 **Contact**: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
-## 🇵🇰 **Nationality**: Pakistani
-## 🏳️ **Pronouns**: He/Him
-## 💼 **Marital Status**: Single
+## 🌟 *Role*: Full-Stack Developer
+## 📍 *Location*: Karachi, Pakistan
+## 📧 *Contact*: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
+## 🇵🇰 *Nationality*: Pakistani
+## 🏳 *Pronouns*: He/Him
+## 💼 *Marital Status*: Single
 
 
 # 💻 My favorite tools and technologies
@@ -143,24 +143,24 @@
 ## About Me
 I'm a passionate Full-Stack Developer currently working towards a Bachelor's degree in Computer Science (BSCS) at Dawood University. My journey in tech is driven by a love for coding and a knack for innovative problem-solving.
 
-### 💻 **Skills & Expertise**
-- **Web Development**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.js, PHP, Express.js, Node.js, MySQL, MongoDB.
-- **Software Development**: C, C++, Java, Python.
-- **Additional Skills**: Strong problem-solving abilities, effective communication, and teamwork.
+### 💻 *Skills & Expertise*
+- *Web Development*: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.js, PHP, Express.js, Node.js, MySQL, MongoDB.
+- *Software Development*: C, C++, Java, Python.
+- *Additional Skills*: Strong problem-solving abilities, effective communication, and teamwork.
 
-### 🎓 **Education**
-- **Bachelor of Science in Computer Science (BSCS)**: Currently pursuing, with a focus on programming and software development.
+### 🎓 *Education*
+- *Bachelor of Science in Computer Science (BSCS)*: Currently pursuing, with a focus on programming and software development.
 
-### 🛠️ **Experience & Skills**
-- **Programming Languages**: PHP, JavaScript, Python, C++, and more.
-- **Web Technologies**: Expertise in dynamic website creation using React.js and Tailwind CSS.
-- **Machine Learning**: Knowledgeable in C, C++, and Java for developing machine learning models.
+### 🛠 *Experience & Skills*
+- *Programming Languages*: PHP, JavaScript, Python, C++, and more.
+- *Web Technologies*: Expertise in dynamic website creation using React.js and Tailwind CSS.
+- *Machine Learning*: Knowledgeable in C, C++, and Java for developing machine learning models.
 
 ---
 
 ## What I’m Up To
-- 🌱 **Currently Learning**: Advanced concepts in software development and machine learning.
-- 🤝 **Looking to Collaborate**: Eager to join projects that challenge my skills and contribute to impactful tech solutions.
+- 🌱 *Currently Learning*: Advanced concepts in software development and machine learning.
+- 🤝 *Looking to Collaborate*: Eager to join projects that challenge my skills and contribute to impactful tech solutions.
 
 ---
 
@@ -238,16 +238,16 @@ Feel free to explore my repositories, and let's connect if you have any exciting
 
 
 
-### ➡️ Let's Connect:
+### ➡ Let's Connect:
 <div align="center">
-<a href = "https://linkedin.com/in/mahad31"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/poetrybymahad31?igsh=MWhldDJoYnBsdWUyYg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/muhammad-mahad-siddiqui-428ab6255"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/muhammad_mahad_siddiqui/?igsh=MWhldDJoYnBsdWUyYg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/mahadsiddiqui.mahadsiddiqui/"><img src="https://img.icons8.com/fluency/48/null/facebook-new.png"/></a>
 </div>
 
 ### 💻 Coding Profiles:
 <p align="center">  
-  <a href="https://leetcode.com/Mahad31/">
+  <a href="https://leetcode.com/u/Muhammad-Mahad-Siddiqui/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
   </a>
 </p>
