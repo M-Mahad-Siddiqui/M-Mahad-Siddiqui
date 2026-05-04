@@ -1,28 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=B31A7D&background=F8A8D400&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+Profile!%F0%9F%91%8B)](https://git.io/typing-svg)
-
- <!--   <img src="https://github.com/M-Mahad-Siddiqui/M-Mahad-Siddiqui/blob/main/mahadc.png?raw=true" alt="Header Image" style="width: 120px; display:inline; height: auto;"> -->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=B31A7D&background=F8A8D400&center=true&vCenter=true&multiline=true&width=500&lines=🚀+Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together.)](https://git.io/typing-svg)
 
 <div align="center">
 
- #Hi, I'm Muhammad Mahad Siddiqui
+# ✨ Muhammad Mahad Siddiqui
 
-### Full-Stack Developer | MERN Stack | Next.js | AI Enthusiast
+### 🚀 Full-Stack Developer | MERN Stack | Next.js | AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+from+Karachi;MERN+%7C+Next.js+%7C+Nest.js+%7C+AI;Building+scalable+and+high-performance+web+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=🔧+Full-Stack+Developer+from+Karachi%2C+Pakistan;⚛️+MERN+|+Next.js+|+Nest.js+|+AI+Integration;🌐+Building+scalable%2C+high-performance+web+apps)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:mahadsiddiqui.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mahadsiddiqui.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧%20Email-mahadsiddiqui.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mahad-siddiqui.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-mahad--siddiqui.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://mahadsiddiqui.com">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-mahadsiddiqui.com-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-mahad-siddiquii/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Mahad%20Siddiqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Muhammad%20Mahad%20Siddiqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/M-Mahad-Siddiqui">
-    <img src="https://img.shields.io/badge/GitHub-M--Mahad--Siddiqui-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/🐙%20GitHub-M--Mahad--Siddiqui-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -33,253 +30,76 @@
 
 ---
 
+## 🧰 Tech Stack & Tools
 
-# :computer: My favorite tools and technologies
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
- </tr>
-</table>
-<br>
-</div>
-
----
-## About Me
-I'm a passionate Full-Stack Developer currently working towards a Bachelor's degree in Computer Science (BSCS) at Dawood University. My journey in tech is driven by a love for coding and a knack for innovative problem-solving.
-
-### :computer: *Skills & Expertise*
-- *Web Development*: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.js, PHP, Express.js, Node.js, MySQL, MongoDB.
-- *Software Development*: C, C++, Java, Python.
-- *Additional Skills*: Strong problem-solving abilities, effective communication, and teamwork.
-
-### :mortar_board: *Education*
-- *Bachelor of Science in Computer Science (BSCS)*: Currently pursuing, with a focus on programming and software development.
-
-### 🛠 *Experience & Skills*
-- *Programming Languages*: PHP, JavaScript, Python, C++, and more.
-- *Web Technologies*: Expertise in dynamic website creation using React.js and Tailwind CSS.
-- *Machine Learning*: Knowledgeable in C, C++, and Java for developing machine learning models.
-
----
-
-## What I’m Up To
-- :seedling: *Currently Learning*: Advanced concepts in software development and machine learning.
-- :handshake: *Looking to Collaborate*: Eager to join projects that challenge my skills and contribute to impactful tech solutions.
-
----
-
-## :tada: Fun Fact
-I’m an avid learner who loves exploring new technologies and tackling coding challenges in my free time!
-
-Feel free to explore my repositories, and let's connect if you have any exciting opportunities or projects!
-
----
-## Rapidfire
-<table><tr><td valign="top" width="100%">
-
-- :telescope: I’m currently working on [Business Website Development](https://github.com/M-Mahad-Siddiqui)
-
-
-- :seedling: I’m currently building business websites using Next.js, Typescript, Tailwind CSS.
-
-
-- :question: Ask me about anything related to MERN stack and related technologies
-
-
-- :zap: Fun fact: I keep night shift swithed on at all times
-
-
-</td></tr></table>
-
-<br/>
-<h1 align="center">:bar_chart: GitHub Stats</h1>
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Mahad-Siddiqui&theme=github_dark&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Mahad-Siddiqui&langs_count=8&layout=compact&theme=gruvbox" width="350" />
-
-<!--![GitHub Streak](https://streak-stats.demolab.com/?user=M-Mahad-Siddiqui&theme=dark)-->
-
----
-<p align="center">
-
-<!--
-<a href="https://github.com/M-Mahad-Siddiqui?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=M-Mahad-Siddiqui&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@M-Mahad-Siddiqui's github-readme-stats"/></a>
--->
-
-<a href="https://github.com/M-Mahad-Siddiqui?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=M-Mahad-Siddiqui&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@M-Mahad-Siddiqui's github-readme-stats"/></a>
-<a href="https://github.com/M-Mahad-Siddiqui?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=M-Mahad-Siddiqui&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@M-Mahad-Siddiqui's github-readme-streak-stats"/></a>
-
-</p>
-
-
-<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
-
-
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Mahad-Siddiqui&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-<!-- activity graph heroku-app end -->
-
-
-
-
-<!--color line-->
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
-
-
----
-
-<p align="center">
-<a href="https://gist.github.com/M-Mahad-Siddiqui"><img src="https://profile-counter.glitch.me/{M-Mahad-Siddiqui}/count.svg" alt="M-Mahad-Siddiqui :: Visitor's Count" /></a>
-</p>
-<!--
-<h1 align="center">Contributions</h1>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Mahad-Siddiqui&theme=rogue)](https://github.com/M-Mahad-Siddiqui/github-readme-activity-graph)
--->
-
-
-
-### ➡ Let's Connect:
 <div align="center">
-<a href = "https://www.linkedin.com/in/muhammad-mahad-siddiqui-428ab6255"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/muhammad_mahad_siddiqui/?igsh=MWhldDJoYnBsdWUyYg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/mahadsiddiqui.mahadsiddiqui/"><img src="https://img.icons8.com/fluency/48/null/facebook-new.png"/></a>
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" /><br/>React</td>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" /><br/>JavaScript</td>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" /><br/>TypeScript</td>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" /><br/>Python</td>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" /><br/>MySQL</td>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" /><br/>AWS</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br/>Next.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/>Node.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br/>MongoDB</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br/>Tailwind</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" /><br/>Git</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" /><br/>GitHub</td>
+    </tr>
+  </table>
 </div>
 
-### :computer: Coding Profiles:
-<p align="center">
-  <a href="https://leetcode.com/u/Muhammad-Mahad-Siddiqui/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
-  </a>
-</p>
+---
 
-### ❤ Followers:
-<div align= "center">
+## 👨‍💻 About Me
 
-<a href="https://github.com/M-Mahad-Siddiqui/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=M-Mahad-Siddiqui"></a>
-<a href="https://github.com/M-Mahad-Siddiqui?tab=followers"><img src="https://img.shields.io/github/followers/M-Mahad-Siddiqui?label=Followers&style=social" alt="GitHub Badge"></a>
+I'm a **Full-Stack Developer** passionate about building seamless digital experiences. Currently pursuing a **Bachelor's in Computer Science (BSCS)** at Dawood University, I thrive on solving complex problems and turning ideas into scalable web applications.
+
+🔹 **Core Expertise:** MERN Stack, Next.js, Tailwind CSS, TypeScript  
+🔹 **Learning Path:** Advanced System Design & AI Model Integration  
+🔹 **Collaboration:** Open to impactful open-source projects and innovative startups
+
+---
+
+## 🔥 What I'm Working On
+
+- ⚙️ Building business websites with **Next.js, TypeScript, Tailwind CSS**
+- 🤖 Exploring AI integrations in full-stack applications
+- 📚 Deepening knowledge of backend architecture & cloud deployment
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Mahad-Siddiqui&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Mahad-Siddiqui&theme=github-dark&hide_border=true" width="48%" />
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Mahad-Siddiqui&layout=compact&theme=github_dark&hide_border=true" width="50%" />
+</div>
 
-<!---
-M-Mahad-Siddiqui/M-Mahad-Siddiqui is a :sparkles: special :sparkles: repository showcasing my journey as a passionate developer. Your insights and connections are welcome!
---->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Mahad-Siddiqui&theme=react-dark&hide_border=true&area=true&custom_title=📈 Contribution%20Graph" width="95%" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-mahad-siddiqui-428ab6255"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/muhammad_mahad_siddiqui/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="https://leetcode.com/u/Muhammad-Mahad-Siddiqui/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg" />
+</div>
